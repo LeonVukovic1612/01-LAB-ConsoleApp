@@ -12,7 +12,7 @@
 
             ElektronickiUredjaji elektronickiUredjaji = new PametniTelefon("tablet", "Samsung",2022, "Android");
 
-            eletronickiUredjaji.IspisInormacije();
+            elektronickiUredjaji.IspisiInformacije();
 
         }
     }

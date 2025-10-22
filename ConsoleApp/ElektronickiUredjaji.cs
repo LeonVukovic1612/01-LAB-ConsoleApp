@@ -19,7 +19,7 @@ namespace ConsoleApp
         }
         public void IspisiInformacije()
         {
-            Console.WriteLine($"Naziv: {Naziv}, Proizvodac: {Proizvodac}");
+            Console.WriteLine($"Naziv: {Naziv}, Proizvodac: {Proizvodac}, Godina Proizvodnje: {GodinaProizvodnje}");
         }
     }
 }
